@@ -1,7 +1,9 @@
 # Twitter-Sentiment-Analylsis-using-LSTM
 
 # Context
-This is the sentiment dataset. It contains 1,600,000 tweets extracted using the twitter API . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
+This is the sentiment dataset. 
+- It contains 1,600,000 tweets extracted using the twitter API . 
+- The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
 
 # Content
 It contains the following 6 fields:
