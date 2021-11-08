@@ -22,4 +22,4 @@ It contains the following 6 fields:
 - gensim
 - nltk
 - sklearn
-- keras
+- tensorflow
