@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analylsis-using-LSTM
+# Twitter-Sentiment-Analysis-using-LSTM
 
 # Context
 This is the sentiment dataset. 
